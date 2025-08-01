@@ -1,0 +1,13 @@
+:root {
+  --primary-color: #001f3f; /* Navy Blue */
+  --secondary-color: #ffffff; /* White */
+  --accent-color: #007bff; /* Accent Blue */
+  --background-color: #f8f9fa; /* Light background */
+  --text-color: #000000; /* Black text */
+}
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
