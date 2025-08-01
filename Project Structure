@@ -1,0 +1,14 @@
+src/
+├── components/
+│   ├── Header.js
+│   ├── Footer.js
+│   ├── Register.js
+│   ├── VerifyEmail.js
+│   ├── Login.js
+│   ├── Menu.js
+│   ├── OrderSummary.js
+│   └── Payment.js
+├── styles/
+│   └── theme.css
+├── App.js
+└── index.js
