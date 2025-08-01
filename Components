@@ -1,0 +1,9 @@
+├── components/
+│   ├── Header.js
+│   ├── Footer.js
+│   ├── Register.js
+│   ├── VerifyEmail.js
+│   ├── Login.js
+│   ├── Menu.js
+│   ├── OrderSummary.js
+│   └── Payment.js
