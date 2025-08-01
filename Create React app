@@ -1,0 +1,3 @@
+npx create-react-app basket-mojo-frontend
+cd basket-mojo-frontend
+npm install axios
